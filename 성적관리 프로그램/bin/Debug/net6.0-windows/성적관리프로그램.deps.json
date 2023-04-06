@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "성적관리프로그램/1.0.0": {
+        "runtime": {
+          "성적관리프로그램.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "성적관리프로그램/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

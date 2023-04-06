@@ -1,0 +1,17 @@
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\bin\Debug\net6.0-windows\성적관리프로그램.exe
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\bin\Debug\net6.0-windows\성적관리프로그램.deps.json
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\bin\Debug\net6.0-windows\성적관리프로그램.runtimeconfig.json
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\bin\Debug\net6.0-windows\성적관리프로그램.dll
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\bin\Debug\net6.0-windows\성적관리프로그램.pdb
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램.csproj.AssemblyReference.cache
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램2.Form1.resources
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램.csproj.GenerateResource.cache
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램.AssemblyInfoInputs.cache
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램.AssemblyInfo.cs
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램.csproj.CoreCompileInputs.cache
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램.dll
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\refint\성적관리프로그램.dll
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램.pdb
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\성적관리프로그램.genruntimeconfig.cache
+C:\Users\tjral\OneDrive\Desktop\성적관리프로그램2\obj\Debug\net6.0-windows\ref\성적관리프로그램.dll

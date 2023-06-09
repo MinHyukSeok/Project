@@ -1,3 +1,7 @@
+# Preview
+## Main
+![Main](preview/main.png)<br><br><br>
+
 # 성적관리 프로그램 기능 및 사용법
 - 추가 : 이름, 학번, 점수에 해당하는 Box에 정보를 입력하고 '추가하기' 버튼을 클릭합니다.
 
